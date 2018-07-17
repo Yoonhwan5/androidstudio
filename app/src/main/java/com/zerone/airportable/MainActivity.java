@@ -128,6 +128,7 @@ public class MainActivity extends NMapActivity
      * 지도가 초기화된 후 호출된다.
      * 정상적으로 초기화되면 errorInfo 객체는 null이 전달되며,
      * 초기화 실패 시 errorInfo객체에 에러 원인이 전달된다
+     * 깃 추가
      */
     @Override
     public void onMapInitHandler(NMapView mapview, NMapError errorInfo) {
